@@ -27,34 +27,9 @@ Finally, economic stimulus measures are essential for stabilizing unemployment i
 
 ---
 ## 🗂️ Repository Structure
-📁 canadian-unemployment-analysis-ml/
-│
-├── 📁 Images/ # Data visualizations
-│ ├── distribution_boxplot.jpg
-│ ├── forecast_2025_2030.jpg
-│ ├── gender_impact.jpg
-│ ├── unemployment_rate_by_age_group.jpg
-│ ├── unemployment_rate_by_education_level.jpg
-│ ├── yearly_unemployment_trend.jpg
-│ ├── employment.png, e2.png, e3.png, e4.png
-│
-├── 📁 dataset/ # Cleaned & synthetic datasets
-│ ├── unemployment.csv
-│ ├── clean_unemployment.csv
-│ ├── predicted_unemployment_dataset.csv
-│ ├── projections.csv
-│ ├── unemployment_MetaData.csv
-│ └── Guide for Datasets.docx
-│
-├── 📁 Modules/
-│ └── pipeline_regression.py # Model pipeline and tuning
-
-├── Codes.ipynb # Jupyter Notebook with full analysis
-├── Machine Learning Insights into Canadian Unemployment.pdf
-└── README.md
+<pre> ``` 📁 canadian-unemployment-analysis-ml/ │ ├── 📁 Images/ # Data visualizations │ ├── distribution_boxplot.jpg │ ├── forecast_2025_2030.jpg │ ├── gender_impact.jpg │ ├── unemployment_rate_by_age_group.jpg │ ├── unemployment_rate_by_education_level.jpg │ ├── yearly_unemployment_trend.jpg │ ├── employment.png, e2.png, e3.png, e4.png │ ├── 📁 dataset/ # Cleaned & synthetic datasets │ ├── unemployment.csv │ ├── clean_unemployment.csv │ ├── predicted_unemployment_dataset.csv │ ├── projections.csv │ ├── unemployment_MetaData.csv │ └── Guide for Datasets.docx │ ├── 📁 Modules/ │ └── pipeline_regression.py # Model pipeline and tuning ├── Codes.ipynb # Jupyter Notebook with full analysis ├── Machine Learning Insights into Canadian Unemployment.pdf └── README.md ``` </pre>
 
 ---
-
 ## 🖼️ Visualizations
 
 | 📊 Plot | 📄 Description |
